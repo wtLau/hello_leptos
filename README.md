@@ -1,6 +1,5 @@
 <picture>
-    <source srcset="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_Solid_White.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
+    <img src="https://user-images.githubusercontent.com/26396307/220280034-4bd89e57-d111-4f90-8ed2-d58731d8c4ca.png" alt="Leptos Logo">
 </picture>
 
 # Brian Learning about Leptos
