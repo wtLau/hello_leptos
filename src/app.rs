@@ -15,7 +15,7 @@ pub fn App(cx: Scope) -> impl IntoView {
         <Stylesheet id="leptos" href="/pkg/leptos_start.css"/>
 
         // sets the document title
-        <Title text="Welcome to Leptos"/>
+        <Title text="Brian is learning about Leptos"/>
 
         // content for this welcome page
         <Router>
@@ -36,7 +36,7 @@ fn HomePage(cx: Scope) -> impl IntoView {
     let on_click = move |_| set_count.update(|count| *count += 1);
 
     view! { cx,
-        <h1>"Welcome to Leptos!"</h1>
+        <h1>"Welcome to test test tes Leptos!"</h1>
         <button on:click=on_click>"Click Me: " {count}</button>
     }
 }
